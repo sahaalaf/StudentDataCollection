@@ -38,9 +38,6 @@ namespace Lab_Practic
             Application.Exit();
         }
 
-        private void KeyEvent(object sender, KeyEventArgs e)
-        {
-
-        }
+  
     }
 }
